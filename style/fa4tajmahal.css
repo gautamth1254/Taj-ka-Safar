@@ -1,16 +1,16 @@
 body{
-    background-image: url('images/frame52.jpg');
-	scroll-behavior: smooth;
+    background-image: url('/images/frame52.jpg');
+	  scroll-behavior: smooth;
 }
 
 .ticket-background{
-    background-image: url('images/frame58.jpg');
+    background-image: url('/images/frame58.jpg');
 	
 }
 
 
 .background-frame{
-	background-image: url("images/frame60.jpg");
+	  background-image: url("images/frame60.jpg");
     background-color: #cccccc;
     height: 100%;
     border-radius: 10%;
@@ -18,11 +18,11 @@ body{
     background-repeat: no-repeat;
     background-size: 100% 100%;
     position: relative;
-	box-shadow:20px 20px 50px 15px brown;
+	  box-shadow:20px 20px 50px 15px brown;
 }
 
 .background-border{
-	background-image: url("images/borderframe1.jpg");
+	background-image: url(".images/borderframe1.jpg");
     background-color: #cccccc;
     height: 30px;
     width: 100%;
