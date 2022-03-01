@@ -2,7 +2,7 @@
 
 body{
 
-   background-image: url('frame52.jpg');
+   background-image: url(../images/frame52.jpg);
 
 }
  
@@ -12,7 +12,7 @@ body{
 	height: 1200px;
 	width: 80%;
 	margin: auto;
-    background-image: url('frame58.jpg');
+    background-image: url(../images/frame58.jpg);
     margin-top: 80px;
 	padding: 70px;
 }  
@@ -31,7 +31,7 @@ th, td {
 
 
 .background-border{
-	background-image: url("frame59.jpg");
+	background-image: url(../images/frame59.jpg);
     background-color: #cccccc;
     height: 50px;
     width: 100%;

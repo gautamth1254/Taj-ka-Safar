@@ -1,6 +1,7 @@
 body {
   background-image: url("/images/frame52.jpg");
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 .ticket-background {

@@ -15,7 +15,7 @@ section{
 	justify-content: center;
 	align-items: center;
 	flex-direction:column; 
-	background-image:url(contactus1.jpg);
+	background-image:url(../images/contactus1.jpg);
 	background-size:cover;
 	
 }
